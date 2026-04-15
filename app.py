@@ -7,7 +7,7 @@ import cv2
 import re
 from datetime import datetime
 
-st.set_page_config(page_title="Японский OCR")
+st.set_page_config(page_title="Мультиязычный OCR")
 st.title('Распознавание текста с PaddleOCR')
 
 # Выбор языка в боковой панели
